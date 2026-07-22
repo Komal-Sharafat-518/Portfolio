@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/screenshots/github-banner.png" alt="Komal Sharafat Portfolio Banner" width="100%">
+  <img src="./public/github-banner.png" alt="Komal Sharafat Portfolio Banner" width="100%">
 </p>
 # 👋 Hi, I'm Komal Sharafat
 
@@ -16,7 +16,9 @@ I enjoy turning ideas into practical applications, learning new technologies, an
 ### 🚀 [Visit My Live Portfolio](YOUR_VERCEL_URL)
 
 Explore my projects, skills, experience, and more through my personal portfolio website.
-
+<p align="center">
+  <img src="./public/screenshots/ss1.png" alt="Portfolio Home Page" width="100%">
+</p>
 ---
 
 ## 👩‍💻 About Me
@@ -36,9 +38,7 @@ My areas of interest include:
 I'm passionate about learning, building, and continuously improving as a developer.
 
 ---
-<p align="center">
-  <img src="./public/screenshots/ss1.png" alt="Portfolio Home Page" width="100%">
-</p>
+
 
 ## 🛠️ Tech Stack
 
