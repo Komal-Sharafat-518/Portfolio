@@ -14,7 +14,7 @@ I enjoy turning ideas into practical applications, learning new technologies, an
 
 ## 🌐 Explore My Portfolio
 
-### 🚀 [Visit My Live Portfolio](YOUR_VERCEL_URL)
+### 🚀 [Visit My Live Portfolio](portfolio-n10nnltba-komalsharafat0-7076s-projects.vercel.app)
 
 Explore my projects, skills, experience, and more through my personal portfolio website.
 
@@ -247,7 +247,7 @@ I'm always open to connecting with **developers, recruiters, clients, and techno
 
 ### 🌐 Portfolio
 
-[Visit my Portfolio](YOUR_VERCEL_URL)
+[Visit my Portfolio](portfolio-n10nnltba-komalsharafat0-7076s-projects.vercel.app)
 
 ### 📧 Email
 
