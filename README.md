@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./public/github-banner.png" alt="Komal Sharafat Portfolio Banner" width="100%">
+  <img src="./public/screenshots/github-banner.png" alt="Komal Sharafat Portfolio Banner" width="100%">
 </p>
+
 # 👋 Hi, I'm Komal Sharafat
 
 ### 💻 Computer Science Student | 🤖 AI & Automation Enthusiast | 🚀 Software Developer
@@ -16,9 +17,11 @@ I enjoy turning ideas into practical applications, learning new technologies, an
 ### 🚀 [Visit My Live Portfolio](YOUR_VERCEL_URL)
 
 Explore my projects, skills, experience, and more through my personal portfolio website.
+
 <p align="center">
   <img src="./public/screenshots/ss1.png" alt="Portfolio Home Page" width="100%">
 </p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -37,8 +40,11 @@ My areas of interest include:
 
 I'm passionate about learning, building, and continuously improving as a developer.
 
----
+<p align="center">
+  <img src="./public/screenshots/ss2.png" alt="Portfolio About Section" width="100%">
+</p>
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -58,15 +64,17 @@ I'm passionate about learning, building, and continuously improving as a develop
 ### 🤖 AI & Automation
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge)
 ![API Integration](https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
 
-* AI Agents
-* Workflow Automation
-* AI-powered Applications
-* API Integration
-* Vapi
-* Google APIs
+**Areas of Experience:**
+
+* 🤖 AI Agents
+* ⚙️ Workflow Automation
+* 🧠 AI-powered Applications
+* 🔗 API Integration
 
 ### 🗄️ Databases
 
@@ -85,6 +93,7 @@ I'm passionate about learning, building, and continuously improving as a develop
 ---
 
 # 🚀 Featured Projects
+
 <p align="center">
   <img src="./public/screenshots/ss3.png" alt="Portfolio Projects Section" width="100%">
 </p>
@@ -111,7 +120,7 @@ An AI-powered virtual receptionist designed to help dental clinics automate fron
 
 `n8n` `Vapi` `AI` `Google Calendar API` `Gmail` `Google Sheets`
 
-🔗 **[View Project on GitHub](github.com/Komal-Sharafat-518/AI-Dental-Receptionist-Agent)**
+🔗 **[View Project on GitHub](https://github.com/Komal-Sharafat-518/AI-Dental-Receptionist-Agent)**
 
 ---
 
@@ -134,7 +143,7 @@ Nova is an AI-powered productivity application designed to help users organize t
 
 `JavaScript` `OpenWeather API` `Grok API` `HTML` `CSS`
 
-🔗 **[View Project on GitHub](github.com/Komal-Sharafat-518/NOVA)**
+🔗 **[View Project on GitHub](https://github.com/Komal-Sharafat-518/NOVA)**
 
 ---
 
@@ -156,7 +165,7 @@ The project combines algorithmic concepts with an interactive game experience to
 
 `C++`
 
-🔗 **[View Project on GitHub](github.com/Komal-Sharafat-518/AlgoEscape-DSA-Game)**
+🔗 **[View Project on GitHub](https://github.com/Komal-Sharafat-518/AlgoEscape-DSA-Game)**
 
 ---
 
@@ -175,9 +184,9 @@ A database-driven management system designed to organize and simplify hostel adm
 
 ### 🛠️ Tech Stack
 
-`C++` 
+`C++`
 
-🔗 **[View Project on GitHub](github.com/Komal-Sharafat-518/Hostel-Management-System)**
+🔗 **[View Project on GitHub](https://github.com/Komal-Sharafat-518/Hostel-Management-System)**
 
 ---
 
@@ -190,6 +199,10 @@ A database-driven management system designed to organize and simplify hostel adm
 Currently building knowledge and practical experience in:
 
 `Data Structures & Algorithms` · `Database Management Systems` · `Software Engineering` · `Computer Networks` · `Web Development` · `Object-Oriented Programming` · `Operating Systems`
+
+<p align="center">
+  <img src="./public/screenshots/ss4.png" alt="Portfolio Education Section" width="100%">
+</p>
 
 ---
 
@@ -210,7 +223,11 @@ Currently building knowledge and practical experience in:
 
 I believe in learning by building.
 
-From developing academic database systems and algorithm-based projects to creating modern web applications and AI-powered automation solutions, I'm continuously expanding my technical knowledge and exploring new ways to use technology to solve practical problems.
+Throughout my journey, I have independently designed and developed projects ranging from academic database and algorithm-based systems to modern web applications and AI-powered automation solutions.
+
+Each project has helped me strengthen my problem-solving skills, explore new technologies, and gain practical experience in software development.
+
+I'm continuously expanding my technical knowledge and exploring new ways to use technology to solve practical problems.
 
 ---
 
@@ -218,13 +235,17 @@ From developing academic database systems and algorithm-based projects to creati
 
 I'm always open to connecting with **developers, recruiters, clients, and technology enthusiasts** interested in software development, AI, and automation.
 
+<p align="center">
+  <img src="./public/screenshots/ss5.png" alt="Portfolio Contact and Content Section" width="100%">
+</p>
+
 ### 💼 LinkedIn
 
-[Connect with me on LinkedIn](linkedin.com/in/komal-sharafat-93697538b)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/komal-sharafat-93697538b)
 
 ### 🐙 GitHub
 
-[Explore my GitHub](github.com/Komal-Sharafat-518)
+[Explore my GitHub](https://github.com/Komal-Sharafat-518)
 
 ### 🌐 Portfolio
 
@@ -232,7 +253,7 @@ I'm always open to connecting with **developers, recruiters, clients, and techno
 
 ### 📧 Email
 
-komalsharfat0@gmail.com
+[komalsharfat0@gmail.com](mailto:komalsharfat0@gmail.com)
 
 ---
 
