@@ -2,6 +2,14 @@ import { motion } from 'framer-motion'
 
 const PROJECTS = [
   {
+    title: 'PrimeNest Realty — AI Lead System',
+    spec: 'AI real estate lead qualification & follow-up',
+    description:
+      'An AI-powered lead qualification and follow-up system built for a demo real estate agency. Captures leads from a web form, scores them Hot/Warm/Cold with AI, auto-notifies the sales team on hot leads, sends personalized AI-generated follow-up emails, and gives the team a live analytics dashboard with authentication.',
+    stack: ['React', 'Supabase', 'PostgreSQL', 'n8n', 'Groq AI', 'Recharts', 'Vercel'],
+    code: 'https://github.com/Komal-Sharafat-518/primenest-lead-system',
+  },
+  {
     title: 'AI Dental Receptionist',
     spec: 'AI voice agent / automation',
     description:
